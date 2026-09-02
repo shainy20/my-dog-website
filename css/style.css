@@ -1,0 +1,19 @@
+body {
+    background-color: #FAEBD7;
+    scroll-behavior: smooth;
+}
+
+h1{ color: rgb(209, 138, 122);
+        text-align: center;
+        font-size: 90px}
+
+h2{ color: rgb(185, 122, 108);
+        text-align: center;
+        font-size: 10px}
+
+p { color:rgb(182, 113, 97);
+       text-align: center;
+        font-size: 50px }
+
+img{  display: block;
+        margin: auto; }
